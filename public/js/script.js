@@ -1,8 +1,7 @@
 let navegador = {
 
 
-    template:
-        `
+    template:`
     <nav>
         <div class="nav-wrapper green">
             <a href="/" class="brand-logo center">VueJS</a>
@@ -19,8 +18,7 @@ let navegador = {
 
 let rodape = {
 
-    template:
-        `
+    template:`
     <footer class="page-footer green">
     <p class="center"> © 2020 Onload-Tecnologia</p>
     </footer>
