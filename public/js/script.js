@@ -7,9 +7,9 @@ let navegador = {
         <div class="nav-wrapper green">
             <a href="/" class="brand-logo center">VueJS</a>
             <ul id="nav-mobile" class="left hide-on-med-and-down">
-                <li><a href="/produtos.html">Produtos</a></li>
-                <li><a href="/cadastro.html">Cadastro</a></li>
-                <li><a href="/sobre.html">Sobre</a></li>
+                <li><a href="/produtos">Produtos</a></li>
+                <li><a href="/cadastro">Cadastro</a></li>
+                <li><a href="/sobre">Sobre</a></li>
             </ul>
         </div>
     </nav>
