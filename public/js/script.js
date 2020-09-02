@@ -1,3 +1,4 @@
+
 let navegador = {
 
 
@@ -38,11 +39,6 @@ let root = new Vue({
     },
     created: () => {
 
-        // do{
-
-        //     this.nome = prompt("Informe seu nome");
-
-        // } while (!nome);
 
 
     },
